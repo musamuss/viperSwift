@@ -1,6 +1,6 @@
 # viperSwift
 
-![Swift](https://img.shields.io/badge/Swift-3.0-green.svg)
+![Swift](https://img.shields.io/badge/Swift-5.0-green.svg)
 
 Generamba template with use DI Swinject and LightRoute:
 
